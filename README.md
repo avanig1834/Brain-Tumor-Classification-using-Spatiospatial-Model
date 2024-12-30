@@ -8,6 +8,12 @@ This approach demonstrates the potential of spatiospatial models in medical imag
 2. https://www.kaggle.com/datasets/vigneshirtt/miccaibrats2019
 
 # Proposed Model:
-
+<p align = 'center'>
+  <img src = "Results/model.jpg" alt="image" width = 700 height = 700></img>
+</p>
 
 # Results:
+<p align='center'>
+  <img src = "Results/roc.png" alt="image" width = 400 height = 300 hspace = '80'></img>
+  <img src = "Results/roc2.png" alt="image" width = 400 height = 300></img>
+</p>
